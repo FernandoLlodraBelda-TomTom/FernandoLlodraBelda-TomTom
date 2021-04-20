@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fernando Llodra Belda, Data Engineer at TomTom within the Maps Analytics team based in Madrid.
+- 👀 I’m interested in Data Science, Maps, Surf, Snowboarding, Music (preferably metal, classic music, Dubstep or Jazz)
+- 🌱 I’m currently learning all of the above topics (you never stop learning)
+- 💞️ I’m looking to collaborate on any project related to data
+- 📫 How to reach me: via Slack, Teams or [e-mail](mailto:fernando.llodrabelda@tomtom.com)
